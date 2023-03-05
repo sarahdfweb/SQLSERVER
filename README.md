@@ -1,4 +1,6 @@
 # SQL SERVER
+Em andamento... 
+Página com os principais comandos de SQL
 Comandos SQL
 
 Banco SQL SERVER
