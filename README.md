@@ -1,11 +1,7 @@
 # SQL SERVER
- <h4 align="center">🚧 Projeto README Em construção ... 🚧</h4> 
-Readme com os principais comandos de SQL <br>
+ <h2 align="center">🚧 Projeto README Em construção ... 🚧</h2> 
+<h3> Readme com os principais comandos de SQL-(Linguagem de Consulta Estruturada) <h3> <br>
 
-Comandos SQL
-
-Banco SQL SERVER
-Structured Query Language - (Linguagem de Consulta Estruturada)
 <details><summary><b>01.Criar um novo  Banco  </b></summary> <br> </details>
 <details><summary><b>02.Criar uma nova Tabela  </b></summary> <br> </details>
 <details><summary><b>03.Fazer um backup completo </b></summary> <br> </details>
