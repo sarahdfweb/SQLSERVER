@@ -1,6 +1,7 @@
 # SQL SERVER
-Em andamento... 
-Página com os principais comandos de SQL
+ <h4 align="center">🚧 Projeto README Em construção ... 🚧</h4> 
+Readme com os principais comandos de SQL <br>
+
 Comandos SQL
 
 Banco SQL SERVER
