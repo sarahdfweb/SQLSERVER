@@ -24,10 +24,10 @@
 </details>
 
 <details>
-  <summary><b>01.SELECT</b></summary>
+  <summary><b>02.T</b></summary>
   <br>
   
-  ![image](https://github.com/sarahdfweb/SQLSERVER/assets/87348787/360092b5-82b4-436d-9025-ace1594fbbd2)
+ 
 </details>
 
 
