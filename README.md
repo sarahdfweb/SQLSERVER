@@ -16,16 +16,20 @@
 <details><summary><b>09.Remover uma coluna da tabela </
 -->
 <details>
-  <summary><b>01.SELECT</b></summary>
+    <summary><b>01.CREATE</b></summary>
   <br>
   
-  ![image](https://github.com/sarahdfweb/SQLSERVER/assets/87348787/f271cd6c-aa1a-488b-b9ab-9f9d8d99d807)
+  ![image](https://github.com/sarahdfweb/SQLSERVER/assets/87348787/d769cbc3-3260-4815-aa6a-97ac33cac302).
+ 
 
 </details>
 
 <details>
-  <summary><b>02.T</b></summary>
+  <summary><b>02.SELECT</b></summary>
   <br>
+  
+  ![image](https://github.com/sarahdfweb/SQLSERVER/assets/87348787/f271cd6c-aa1a-488b-b9ab-9f9d8d99d807)
+
   
  
 </details>
