@@ -15,11 +15,19 @@
 <details><summary><b>08.Alterar as caracteristicas de uma tabela (Alter Table) </b></summary> <br> </details>
 <details><summary><b>09.Remover uma coluna da tabela </
 -->
-<details><summary><b>01.SELECT </b></summary> <br> </details>
+<details>
+  <summary><b>01.SELECT</b></summary>
+  <br>
+  
+  ![image](https://github.com/sarahdfweb/SQLSERVER/assets/87348787/f271cd6c-aa1a-488b-b9ab-9f9d8d99d807)
 
-![image](https://github.com/sarahdfweb/SQLSERVER/assets/87348787/360092b5-82b4-436d-9025-ace1594fbbd2)
+</details>
 
-
-
+<details>
+  <summary><b>01.SELECT</b></summary>
+  <br>
+  
+  ![image](https://github.com/sarahdfweb/SQLSERVER/assets/87348787/360092b5-82b4-436d-9025-ace1594fbbd2)
+</details>
 
 
