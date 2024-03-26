@@ -1,5 +1,8 @@
-# SQL SERVER
- <h2 align="center">🚧 Projeto README Em construção ... 🚧</h2> 
+# SQL 
+## Feramenta utilizada DBeaver
+
+<!-- 
+<h2 align="center">🚧 Projeto README Em construção ... 🚧</h2> 
 <h3> Readme com os principais comandos de SQL-(Linguagem de Consulta Estruturada) <h3> <br>
 
 <details><summary><b>01.Criar um novo  Banco  </b></summary> <br> </details>
@@ -10,7 +13,13 @@
 <details><summary><b>06.Drop e truncate </b></summary> <br> </details>
 <details><summary><b>07.Listar as características de uma tabela (EXEC) </b></summary> <br> </details>
 <details><summary><b>08.Alterar as caracteristicas de uma tabela (Alter Table) </b></summary> <br> </details>
-<details><summary><b>09.Remover uma coluna da tabela </b></summary> <br> </details>
+<details><summary><b>09.Remover uma coluna da tabela </
+-->
+<details><summary><b>01.SELECT </b></summary> <br> </details>
+
+![image](https://github.com/sarahdfweb/SQLSERVER/assets/87348787/360092b5-82b4-436d-9025-ace1594fbbd2)
+
+
 
 
 
