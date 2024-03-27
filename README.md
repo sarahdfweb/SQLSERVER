@@ -4,7 +4,12 @@
 <details>
     <summary><b>01. CREATE</b></summary>
     <br>
-    <img src="https://github.com/sarahdfweb/SQLSERVER/assets/87348787/22a82b42-2d5e-49d6-acda-5466b2da78ad" alt="Imagem CREATE">
+    <img src="https://github.com/sarahdfweb/SQLSERVER/assets/87348787/daffbc0a-65e6-4bc1-ae3f-b6d38822d383">
+    <img src="https://github.com/sarahdfweb/SQLSERVER/assets/87348787/5d2be2ad-c868-4283-a4e5-e53ad9c4fc60">
+
+    
+    
+" alt="Imagem CREATE">
 </details>
 
 <details>
@@ -17,14 +22,42 @@
 <details>
     <summary><b>03. INSERT</b></summary>
     <br>
-    <img src="https://github.com/sarahdfweb/SQLSERVER/assets/87348787/f376ab35-f4fa-46f6-890d-c93ea1bc29ac" alt="Imagem INSERT">
+    <img src="https://github.com/sarahdfweb/SQLSERVER/assets/87348787/daefa5ec-79bb-4a77-90c0-d39dc3f6f6b9">
+    <img src="https://github.com/sarahdfweb/SQLSERVER/assets/87348787/e2d68fdd-5c65-401e-ad51-70ecc04c6a29"> 
+
 </details>
 
 <details>
-    <summary><b>04. UPDATE</b></summary>
+    <summary><b>04. JOIN</b></summary>
     <br>
-    <img src="https://github.com/sarahdfweb/SQLSERVER/assets/87348787/61d054cc-28b1-41c9-8650-2ac5e7907fec" alt="Imagem UPDATE">
+    <img src="https://github.com/sarahdfweb/SQLSERVER/assets/87348787/f636a06c-6a67-47f2-8ad2-20a1a8479b1e">
+
 </details>
+
+<details>
+    <summary><b>05.SUBQUERIES</b></summary>
+    <br>
+    <img src="https://github.com/sarahdfweb/SQLSERVER/assets/87348787/0ea74fc0-0ee8-4517-9d0a-b8a43313193d">
+    
+</details>
+
+<details>
+   <summary><b>06.CTE (Common Table Expressions)</b></summary>
+   <br>
+    <img src="https://github.com/sarahdfweb/SQLSERVER/assets/87348787/ad44310f-371d-4514-9af2-8651a2a71c2f">
+    
+</details>
+
+<details>
+   <summary><b>07.WINDOW FUNCTIONS (Common Table Expressions)</b></summary>
+   <br>
+   <img src="https://github.com/sarahdfweb/SQLSERVER/assets/87348787/79d45524-de5c-4058-a55e-bfd99bc89415">
+    
+</details>
+ 
+
+
+
 
 # NOSQL 
 
