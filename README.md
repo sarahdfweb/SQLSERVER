@@ -57,23 +57,29 @@
 <details>
     <summary><b>05. db.collection.find():</b> Recupera documentos de uma coleção.</summary>
     <br>
-         <br> 🚧 Aparti daqui esta em construição....</br>
+    
+<img src="https://github.com/sarahdfweb/SQLSERVER/assets/87348787/45ca3ba0-fc29-4b0a-8e82-e46d40b9f299" alt="Imagem 0">
+       
 </details>
 
 <details>
     <summary><b>06. db.collection.insertOne():</b> Insere um novo documento em uma coleção.</summary>
     <br>
+<img src="https://github.com/sarahdfweb/SQLSERVER/assets/87348787/f5e2daff-dd6b-446b-a7b6-4c5a3e394ea0" alt="Imagem 06">
+
+   
 </details>
 
 <details>
     <summary><b>07. db.collection.insertMany():</b> Insere vários documentos em uma coleção.</summary>
     <br>
-    <img src="https://github.com/sarahdfweb/SQLSERVER/assets/87348787/25285d69-1d0e-4200-b177-201ae4c7ee0c" alt="Imagem 05">
+    <img src="https://github.com/sarahdfweb/SQLSERVER/assets/87348787/25285d69-1d0e-4200-b177-201ae4c7ee0c" alt="Imagem 07">
 </details>
 
 <details>
     <summary><b>08. db.collection.updateOne():</b> Atualiza um único documento em uma coleção.</summary>
     <br>
+       <br> 🚧 Aparti daqui esta em construição....</br>
 </details>
 
 <details>
