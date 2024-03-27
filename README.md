@@ -19,18 +19,24 @@
     <summary><b>01.CREATE</b></summary>
   <br>
   
-  ![image](https://github.com/sarahdfweb/SQLSERVER/assets/87348787/d769cbc3-3260-4815-aa6a-97ac33cac302).
- 
+![image](https://github.com/sarahdfweb/SQLSERVER/assets/87348787/22a82b42-2d5e-49d6-acda-5466b2da78ad)
 
 </details>
 
 <details>
   <summary><b>02.SELECT</b></summary>
   <br>
-  
-  ![image](https://github.com/sarahdfweb/SQLSERVER/assets/87348787/f271cd6c-aa1a-488b-b9ab-9f9d8d99d807)
+    
+  ![image](https://github.com/sarahdfweb/SQLSERVER/assets/87348787/ae2b0a21-2520-4b56-8404-291c035eefce)
 
-  
+</details>
+
+<details>
+    <summary><b>03.iNSERT</b></summary>
+  <br>
+    
+  ![image](https://github.com/sarahdfweb/SQLSERVER/assets/87348787/f376ab35-f4fa-46f6-890d-c93ea1bc29ac)
+
  
 </details>
 
