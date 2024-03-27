@@ -79,28 +79,23 @@
 <details>
     <summary><b>08. db.collection.updateOne():</b> Atualiza um único documento em uma coleção.</summary>
     <br>
-       <br> 🚧 Aparti daqui esta em construição....</br>
+    
+![image](https://github.com/sarahdfweb/SQLSERVER/assets/87348787/b17a6638-001a-49ac-a7cb-43d04afa4c4f)
+
+    
+       
 </details>
 
 <details>
     <summary><b>09. db.collection.updateMany():</b> Atualiza vários documentos em uma coleção.</summary>
     <br>
+    
+![image](https://github.com/sarahdfweb/SQLSERVER/assets/87348787/88e4ec1d-a87f-4beb-8f9f-aeb6047a5a94)
+
+
 </details>
 
-<details>
-    <summary><b>10. db.collection.deleteOne():</b> Remove um único documento de uma coleção.</summary>
-    <br>
-</details>
 
-<details>
-    <summary><b>11. db.collection.deleteMany():</b> Remove vários documentos de uma coleção.</summary>
-    <br>
-</details>
-
-<details>
-    <summary><b>12. db.collection.aggregate():</b> Executa operações de agregação em uma coleção.</summary>
-    <br>
-</details>
 
 # :dart: Desafios
 
