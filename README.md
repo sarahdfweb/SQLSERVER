@@ -28,10 +28,6 @@
 
 # NOSQL 
 
-## 
-
-
-
 ## Ferramenta utilizada MongoDB <img src="https://github.com/sarahdfweb/SQLSERVER/assets/87348787/e15b1693-6736-43cb-8ecb-56c3287c7154" alt="MongoDB Logo" style="width: 25px; vertical-align: middle;">
 
 <details>
